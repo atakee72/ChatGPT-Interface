@@ -1,0 +1,9 @@
+# .gitignore file for a very simple Node.js app
+
+# Ignore node_modules directory
+node_modules/
+node_modules
+
+# Ignore .env file
+.env
+.env/
